@@ -5,3 +5,6 @@
 
 ## Crear Proyecto
 ### vue create mi-proyecto
+
+## Ejecutar Proyecto
+### npm run serve
