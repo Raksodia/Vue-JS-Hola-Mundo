@@ -1,3 +1,7 @@
 # Vue-JS-Hola-Mundo
 
-# npm install -g @vue/cli  Instalar Linea de Comandos Global Vue Js
+# Instalar Linea de Comandos Global Vue Js
+# npm install -g @vue/cli  
+
+# Crear Proyecto
+# vue create mi-proyecto
